@@ -217,9 +217,15 @@ root.print();
 
 이 프로젝트는 학습 목적으로 제작되었습니다. 개선 사항이나 버그를 발견하시면 이슈를 등록해주세요.
 
-## 📄 라이선스
+## License
 
 이 프로젝트는 교육 목적으로 제작되었습니다.
+
+**MetaHumotonic License 1.2** — [LICENSE](LICENSE); [scope, prior grants and third-party notices](LICENSE-NOTICE.md).
+
+지정한 하드웨어의 접근권한과 전체 관리 권한을 합의한 명세서에 따라 공유하고, **CHU의 일부가 된다**는 참여 원칙을 적용합니다. 실제 접근에는 별도 승인이 필요합니다.
+
+Source-available; not OSI-approved. Existing grants and separately licensed material remain valid.
 
 ## 📚 참고 자료
 
@@ -230,4 +236,3 @@ root.print();
 
 **작성일**: 2025-10-13  
 **프로젝트**: Custom Regex Engine (Java)
-
